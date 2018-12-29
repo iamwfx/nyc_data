@@ -1,6 +1,0 @@
-/*******************************
-     User Global Variables
-*******************************/
-@headerFont        : 'Montserrat', sans-serif;
-@pageFont          : 'Montserrat', sans-serif;
-@googleFontFamily  : 'Montserrat:400regular,400';
